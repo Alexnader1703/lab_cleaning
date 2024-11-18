@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X8PBQrFpUjCvjDVRvErKC7uITqCslFv2kEy4Mxx13rI7DKgMt2YqkG2c0lNb0uPgunxWUVvJcyKRAOBZ/OZt/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danac\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danac\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\danac\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\danac\\.nuget\\packages\\npgsql\\8.0.5\\npgsql.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
